@@ -6,7 +6,8 @@ Welcome!
 ## About me
 
 I like to dive deep into how processes work.  
-Let’s say I added two space symbols on the previous line to ensure the Markdown interpreter displayed it correctly.
+Let’s say I added two space symbols on the previous line to ensure the Markdown interpreter displayed it correctly.  
+You can even add invisible comments to .md files—you can find one right here! <!-- Wow, Hello! That was easy 🤪 -->
 
 Most of my time is spent on the web, so I like to understand how things work—on the client, server, network side, and beyond.  
 I also enjoy learning how programming languages work and why they function the way they do, but I’m not particularly passionate about coding itself. Maybe I’m still searching for my language or my project. 
