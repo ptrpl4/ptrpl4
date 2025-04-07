@@ -18,7 +18,7 @@ I also try to maintain a small technical wiki repo. It’s just a collection of 
 
 🎮 And when I lose my faith in humanity even more, I like to escape by playing video games, listening to podcasts, reading books, and watching movies and series—just like any typical human being.
 
-♻️ Some tag words if you want to know me better (it’s a mess for a reason): hollow knight, david lynch, scrubs, donnie darko, infinite jest, stephen king, tool, disgusting men, kingdom new lands, batenka, agnes obel, black books, twin peaks, paolo sorrentino, disco elysium, clerks.
+♻️ Some tag words if you want to know me better (it’s a mess for a reason): hollow knight, david lynch, scrubs, donnie darko, infinite jest, stephen king, tool, disgusting men, kingdom new lands, batenka, agnes obel, black books, twin peaks, paolo sorrentino, disco elysium, clerks, dark souls.
 
 ---
 
