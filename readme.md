@@ -24,4 +24,4 @@ I also try to maintain a small technical wiki repo. It’s just a collection of 
 ---
 
 <a href="https://www.buymeacoffee.com/ptrpl4">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ptrpl4&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy-me-a-coffee&emoji=&slug=ptrpl4&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a>
